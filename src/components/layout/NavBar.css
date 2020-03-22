@@ -1,0 +1,11 @@
+.input-group {
+    width: 80%;
+}
+
+.navbar{
+    height: 75px;
+}
+.navbar-expand-lg{
+    box-shadow: 3px -3px 10px 1px black;
+
+}
