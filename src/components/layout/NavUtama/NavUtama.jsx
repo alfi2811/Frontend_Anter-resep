@@ -53,7 +53,7 @@ export default class NavUtama extends Component{
                             <ResepCards nameFood="Salad Indo" />                            
                         </div>
                     </div>  
-                    <div className="row">
+                    <div className="row mt-4">
                         <div className="col-3">
                             <ResepCards nameFood="Fruit Salad" />                            
                         </div>
