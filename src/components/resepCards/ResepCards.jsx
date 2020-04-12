@@ -43,7 +43,7 @@ export default class ResepCards extends Component{
                     <p className="card-text" style={{marginBottom: '0px'}} >Resep Budget</p>
                     <div className="row">
                         <div className="col-8">
-                            <p className="card-text" style={{fontSize: '24px', fontWeight:'700', color: '#8F0000'}} >Rp. 30.000 </p>  
+                            <p className="card-text" style={{fontSize: '22px', fontWeight:'700', color: '#8F0000'}} >Rp. 30.000 </p>  
                         </div>
                         <div className="col-4" style={{padding: '14px 0px 0px 0px', fontSize: '12px', textAlign: 'center'}}>
                             <a href="#" style={{color: '#000000'}} >Read More</a> 
